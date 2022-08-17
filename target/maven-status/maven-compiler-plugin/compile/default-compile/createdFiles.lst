@@ -1,0 +1,4 @@
+com\portafolioerao\erao\Entity\Persona.class
+com\portafolioerao\erao\Controller\PersonaController.class
+com\portafolioerao\erao\Interface\IPersonaService.class
+com\portafolioerao\erao\Security\Dto\NuevoUsuario.class

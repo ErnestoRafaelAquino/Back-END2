@@ -1,3 +1,5 @@
+C:\Users\Ernesto Aquino\Desktop\PORFOLIO2\Back-END2\src\main\java\com\portafolioerao\erao\Security\MainSecurity.java
+C:\Users\Ernesto Aquino\Desktop\PORFOLIO2\Back-END2\src\main\java\com\portafolioerao\erao\Security\Dto\JwtDto.java
 C:\Users\Ernesto Aquino\Desktop\PORFOLIO2\Back-END2\src\main\java\com\portafolioerao\erao\Security\Repository\iUsuarioRepository.java
 C:\Users\Ernesto Aquino\Desktop\PORFOLIO2\Back-END2\src\main\java\com\portafolioerao\erao\Repository\IPersonaRepository.java
 C:\Users\Ernesto Aquino\Desktop\PORFOLIO2\Back-END2\src\main\java\com\portafolioerao\erao\Security\Entity\Rol.java
@@ -7,10 +9,16 @@ C:\Users\Ernesto Aquino\Desktop\PORFOLIO2\Back-END2\src\main\java\com\portafolio
 C:\Users\Ernesto Aquino\Desktop\PORFOLIO2\Back-END2\src\main\java\com\portafolioerao\erao\Interface\IPersonaService.java
 C:\Users\Ernesto Aquino\Desktop\PORFOLIO2\Back-END2\src\main\java\com\portafolioerao\erao\Security\Service\UsuarioService.java
 C:\Users\Ernesto Aquino\Desktop\PORFOLIO2\Back-END2\src\main\java\com\portafolioerao\erao\Security\jwt\JwtEntryPoint.java
+C:\Users\Ernesto Aquino\Desktop\PORFOLIO2\Back-END2\src\main\java\com\portafolioerao\erao\Security\Controller\Mensaje.java
 C:\Users\Ernesto Aquino\Desktop\PORFOLIO2\Back-END2\src\main\java\com\portafolioerao\erao\Security\Entity\UsuarioPrincipal.java
+C:\Users\Ernesto Aquino\Desktop\PORFOLIO2\Back-END2\src\main\java\com\portafolioerao\erao\Security\Dto\LoginUsuario.java
 C:\Users\Ernesto Aquino\Desktop\PORFOLIO2\Back-END2\src\main\java\com\portafolioerao\erao\Controller\PersonaController.java
+C:\Users\Ernesto Aquino\Desktop\PORFOLIO2\Back-END2\src\main\java\com\portafolioerao\erao\Security\Controller\AuthController.java
 C:\Users\Ernesto Aquino\Desktop\PORFOLIO2\Back-END2\src\main\java\com\portafolioerao\erao\Entity\Persona.java
+C:\Users\Ernesto Aquino\Desktop\PORFOLIO2\Back-END2\src\main\java\com\portafolioerao\erao\Security\jwt\JwtTokenFilter.java
 C:\Users\Ernesto Aquino\Desktop\PORFOLIO2\Back-END2\src\main\java\com\portafolioerao\erao\Service\ImpPersonaService.java
 C:\Users\Ernesto Aquino\Desktop\PORFOLIO2\Back-END2\src\main\java\com\portafolioerao\erao\EraoApplication.java
+C:\Users\Ernesto Aquino\Desktop\PORFOLIO2\Back-END2\src\main\java\com\portafolioerao\erao\Security\jwt\JwtProvider.java
 C:\Users\Ernesto Aquino\Desktop\PORFOLIO2\Back-END2\src\main\java\com\portafolioerao\erao\Security\Service\RolService.java
+C:\Users\Ernesto Aquino\Desktop\PORFOLIO2\Back-END2\src\main\java\com\portafolioerao\erao\Security\Dto\NuevoUsuario.java
 C:\Users\Ernesto Aquino\Desktop\PORFOLIO2\Back-END2\src\main\java\com\portafolioerao\erao\Security\Entity\Usuario.java
