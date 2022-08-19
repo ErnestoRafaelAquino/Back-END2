@@ -10,6 +10,7 @@ com\portafolioerao\erao\Entity\Persona.class
 com\portafolioerao\erao\Security\Dto\LoginUsuario.class
 com\portafolioerao\erao\Security\Entity\Usuario.class
 com\portafolioerao\erao\Security\Service\UsuarioService.class
+com\portafolioerao\erao\Security\MainSecurity.class
 com\portafolioerao\erao\Security\Enums\RolNombre.class
 com\portafolioerao\erao\Interface\IPersonaService.class
 com\portafolioerao\erao\Service\ImpPersonaService.class
